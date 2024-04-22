@@ -1,11 +1,12 @@
-module github.com/opensearch-project/opensearch-go/v4
+module github.com/shuffle/opensearch-go/v4
 
-go 1.21
+go 1.20
 
 require (
 	github.com/aws/aws-sdk-go v1.51.21
 	github.com/aws/aws-sdk-go-v2 v1.26.1
 	github.com/aws/aws-sdk-go-v2/config v1.27.11
+	github.com/opensearch-project/opensearch-go/v4 v4.0.0
 	github.com/stretchr/testify v1.9.0
 	github.com/wI2L/jsondiff v0.5.1
 	golang.org/x/exp v0.0.0-20231006140011-7918f672742d
